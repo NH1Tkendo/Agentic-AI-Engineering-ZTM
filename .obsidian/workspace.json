@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "6386a7b06075e8e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a9e000e42e038cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2414f7c495dae6d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week1/10. Understanding Agent vs Workflow Patterns in LLM Application Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. Understanding Agent vs Workflow Patterns in LLM Application Design"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ccbfa9958cb5d24",
+    "type": "split",
+    "children": [
+      {
+        "id": "363008edbf5e882b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a061543e04b51ada",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d307a10c931df644",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ef2fc69ff56391f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c98a5577984b6b75",
+    "type": "split",
+    "children": [
+      {
+        "id": "28d38359e672611a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6835c5cbfb03f525",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Week1/4. Windows Setup for AI Development (Git, Cursor IDE & UV Package Manager).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 4. Windows Setup for AI Development (Git, Cursor IDE & UV Package Manager)"
+            }
+          },
+          {
+            "id": "87ec2258fbc5830e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Week1/4. Windows Setup for AI Development (Git, Cursor IDE & UV Package Manager).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 4. Windows Setup for AI Development (Git, Cursor IDE & UV Package Manager)"
+            }
+          },
+          {
+            "id": "e41665d5fdfef69b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "63256c751df1bde5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Week1/4. Windows Setup for AI Development (Git, Cursor IDE & UV Package Manager).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4. Windows Setup for AI Development (Git, Cursor IDE & UV Package Manager)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2414f7c495dae6d7",
+  "lastOpenFiles": [
+    "Week1/9. 5 Essential LLM Workflow Design Patterns for Building Robust AI Systems.md",
+    "Week1/10. Understanding Agent vs Workflow Patterns in LLM Application Design.md",
+    "md_assets/Evaluator-optimizer.png",
+    "md_assets/{1B1CA5ED-758F-4459-80F3-9A2F2B00075F}.png",
+    "md_assets/Orchestrator-worker.png",
+    "md_assets/{6BDBBD17-3A5B-46B9-BB0C-90DAFC380E48}.png",
+    "md_assets/Parralelization.png",
+    "md_assets/{FD9DAA88-C9D6-4620-B0CE-3AD92EF21504}.png",
+    "md_assets/Routing.png",
+    "md_assets/{B65D40E5-15C2-4889-9629-45ADD075FE19}.png",
+    "md_assets/prompt-chaining.png",
+    "md_assets/{E7E9FA69-5649-4EDA-BCBC-084D029CB292}.png",
+    "Week1/8. Building Effective Agents - LLM Autonomy & Tool Integration Explained.md",
+    "Week1/7. Introduction to Agentic AI Creating Multi-Step LLM Workflows + Autonomy.md",
+    "Week1/6. Building Your First Agentic AI Workflow with OpenAI API.md",
+    "Week1/5. Setting Up Your Mac for AI Projects (GitHub, Cursor IDE & OpenAI API Key).md",
+    "Week1/4. Windows Setup for AI Development (Git, Cursor IDE & UV Package Manager).md",
+    "agents/uv.lock",
+    "agents/setup/troubleshooting.ipynb",
+    "agents/setup/SETUP-WSL.md",
+    "agents/setup/SETUP-PC.md",
+    "agents/setup/SETUP-node.md",
+    "agents/setup/SETUP-mac.md",
+    "agents/setup/SETUP-linux.md",
+    "agents/setup/diagnostics.py",
+    "agents/setup",
+    "agents/requirements.txt",
+    "agents/pyproject.toml",
+    "agents/guides/community_contributions/python_cheatsheet_interactive.ipynb",
+    "agents/guides/community_contributions/python-cheatsheet.ipynb",
+    "agents/guides/community_contributions/lab1_sanjayfuloria_solution.ipynb",
+    "agents/guides/community_contributions",
+    "agents/README.md",
+    "agents/6_mcp/community_contributions/lifecyle_hooks/sandbox/recipe.md",
+    "agents/6_mcp/community_contributions/emotion_and_mcp/src/README.md",
+    "agents/6_mcp/community_contributions/text_analysis_mcp_tool/README.md",
+    "agents/6_mcp/community_contributions/mcp_srv_insight/README.md",
+    "agents/6_mcp/community_contributions/forex2/README.md",
+    "agents/6_mcp/community_contributions/emotion_and_mcp/README.md",
+    "agents/6_mcp/community_contributions/date_mcp_server_client/README.md",
+    "agents/6_mcp/sandbox/banoffee.md",
+    "agents/5_autogen/community_contributions/kisali/output/flights.md",
+    "agents/5_autogen/community_contributions/sandbox/flights.md",
+    "agents/5_autogen/community_contributions/2_lab2_mcp_work_around/readme.md",
+    "agents/5_autogen/sandbox/flights.md",
+    "agents/4_langgraph/community_contributions/transcript_summarizer/README.md"
+  ]
+}
