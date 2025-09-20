@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week1/10. Understanding Agent vs Workflow Patterns in LLM Application Design.md",
+                "file": "Week1/15. Connecting Agentic Patterns to Tool Use Essential AI Building Blocks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Understanding Agent vs Workflow Patterns in LLM Application Design"
+              "title": "15. Connecting Agentic Patterns to Tool Use Essential AI Building Blocks"
             }
           }
         ]
@@ -171,8 +171,13 @@
   },
   "active": "2414f7c495dae6d7",
   "lastOpenFiles": [
-    "Week1/9. 5 Essential LLM Workflow Design Patterns for Building Robust AI Systems.md",
+    "Week1/14. Multi-Model Orchestration Creating a System to Evaluate AI Responses.md",
+    "Week1/15. Connecting Agentic Patterns to Tool Use Essential AI Building Blocks.md",
+    "Week1/13. Comparing LLM APIs Using OpenAI Client Library with Claude, Gemini & ++.md",
+    "Week1/12. Multi-LLM API Integration Comparing OpenAI, Anthropic & Other Models.md",
+    "Week1/11. Orchestrating Multiple LLMs Comparing GPT-4o, Claude, Gemini & DeepSeek.md",
     "Week1/10. Understanding Agent vs Workflow Patterns in LLM Application Design.md",
+    "Week1/9. 5 Essential LLM Workflow Design Patterns for Building Robust AI Systems.md",
     "md_assets/Evaluator-optimizer.png",
     "md_assets/{1B1CA5ED-758F-4459-80F3-9A2F2B00075F}.png",
     "md_assets/Orchestrator-worker.png",
@@ -211,11 +216,6 @@
     "agents/6_mcp/community_contributions/forex2/README.md",
     "agents/6_mcp/community_contributions/emotion_and_mcp/README.md",
     "agents/6_mcp/community_contributions/date_mcp_server_client/README.md",
-    "agents/6_mcp/sandbox/banoffee.md",
-    "agents/5_autogen/community_contributions/kisali/output/flights.md",
-    "agents/5_autogen/community_contributions/sandbox/flights.md",
-    "agents/5_autogen/community_contributions/2_lab2_mcp_work_around/readme.md",
-    "agents/5_autogen/sandbox/flights.md",
-    "agents/4_langgraph/community_contributions/transcript_summarizer/README.md"
+    "agents/6_mcp/sandbox/banoffee.md"
   ]
 }
